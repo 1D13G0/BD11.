@@ -1,0 +1,165 @@
+[
+    {
+        "nombre": "Realme",
+        "Modelo": "Realme C35",
+        "SistemaOperativo": "realme UI 2.0 ",
+        "Precio": "699",
+        "img": "https://i.ibb.co/NWjWc4s/115642854-1.jpg",
+        "webpage": ""
+    },
+    {
+        "nombre": "Huawei",
+        "Modelo": "Huawei P Smart 2019",
+        "SistemaOperativo": "Android 9.0 Pie",
+        "Precio": "499",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_687570-MLA44155861806_112020-V.webp",
+        "webpage": ""
+    },
+    {
+        "nombre": "Samsung",
+        "Modelo": "Samsung Galaxy S21",
+        "SistemaOperativo": "Android 11",
+        "Precio": "699",
+        "img": "https://m.media-amazon.com/images/I/51SUZRmZzOL._AC_UY218_.jpg"
+    },
+    {
+        "nombre": "Redmi",
+        "Modelo": "Redmi note 8",
+        "SistemaOperativo": "Android 9",
+        "Precio": "899",
+        "img": "https://m.media-amazon.com/images/I/41qZ5OyzsLL._AC_UY218_.jpg"
+    },
+    {
+        "nombre": "LG",
+        "Modelo": "LG K11",
+        "SistemaOperativo": "Android 6.0",
+        "Precio": "460",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_639758-MPE40156968508_122019-V.webp"
+    },
+    {
+        "nombre": "Honor",
+        "Modelo": "Honor X8a",
+        "SistemaOperativo": "Android 9.0",
+        "Precio": "799",
+        "img": "https://m.media-amazon.com/images/I/81uuNY+2tZL._AC_UY218_.jpg"
+    },
+    {
+        "nombre": "Apple",
+        "Modelo": "Iphone 11",
+        "SistemaOperativo": "Apple DOS",
+        "Precio": "2099",
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/18673445_2?wid=240&hei=240&qlt=70&fmt=webp"
+    },
+    
+    {
+        "nombre": "Realme",
+        "Modelo": "Realme C35",
+        "SistemaOperativo": "realme UI 2.0 ",
+        "Precio": "699",
+        "img": "https://i.ibb.co/NWjWc4s/115642854-1.jpg",
+        "webpage": ""
+    },
+
+    {
+        "nombre": "Huawei",
+        "Modelo": "Huawei P Smart 2019",
+        "SistemaOperativo": "Android 9.0 Pie",
+        "Precio": "499",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_687570-MLA44155861806_112020-V.webp",
+        "webpage": ""
+    },
+    
+    {
+        "nombre": "Samsung",
+        "Modelo": "Samsung Galaxy S21",
+        "SistemaOperativo": "Android 11",
+        "Precio": "699",
+        "img": "https://m.media-amazon.com/images/I/51SUZRmZzOL._AC_UY218_.jpg"
+    },
+
+    {
+        "nombre": "Redmi",
+        "Modelo": "Redmi note 8",
+        "SistemaOperativo": "Android 9",
+        "Precio": "899",
+        "img": "https://m.media-amazon.com/images/I/41qZ5OyzsLL._AC_UY218_.jpg"
+    },
+    
+
+    {
+        "nombre": "LG",
+        "Modelo": "LG K11",
+        "SistemaOperativo": "Android 6.0",
+        "Precio": "460",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_639758-MPE40156968508_122019-V.webp"
+    },
+    {
+        "nombre": "Honor",
+        "Modelo": "Honor X8a",
+        "SistemaOperativo": "Android 9.0",
+        "Precio": "799",
+        "img": "https://m.media-amazon.com/images/I/81uuNY+2tZL._AC_UY218_.jpg"
+    },
+    {
+        "nombre": "Apple",
+        "Modelo": "Iphone 11",
+        "SistemaOperativo": "Apple DOS",
+        "Precio": "2099",
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/18673445_2?wid=240&hei=240&qlt=70&fmt=webp"
+    },
+
+
+
+    {
+        "nombre": "Realme",
+        "Modelo": "Realme C35",
+        "SistemaOperativo": "realme UI 2.0 ",
+        "Precio": "699",
+        "img": "https://i.ibb.co/NWjWc4s/115642854-1.jpg",
+        "webpage": ""
+    },
+    {
+        "nombre": "Huawei",
+        "Modelo": "Huawei P Smart 2019",
+        "SistemaOperativo": "Android 9.0 Pie",
+        "Precio": "499",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_687570-MLA44155861806_112020-V.webp",
+        "webpage": ""
+    },
+    {
+        "nombre": "Samsung",
+        "Modelo": "Samsung Galaxy S21",
+        "SistemaOperativo": "Android 11",
+        "Precio": "699",
+        "img": "https://m.media-amazon.com/images/I/51SUZRmZzOL._AC_UY218_.jpg"
+    },
+    {
+        "nombre": "Redmi",
+        "Modelo": "Redmi note 8",
+        "SistemaOperativo": "Android 9",
+        "Precio": "899",
+        "img": "https://m.media-amazon.com/images/I/41qZ5OyzsLL._AC_UY218_.jpg"
+    },
+    {
+        "nombre": "LG",
+        "Modelo": "LG K11",
+        "SistemaOperativo": "Android 6.0",
+        "Precio": "460",
+        "img": "https://http2.mlstatic.com/D_NQ_NP_639758-MPE40156968508_122019-V.webp"
+    },
+    {
+        "nombre": "Honor",
+        "Modelo": "Honor X8a",
+        "SistemaOperativo": "Android 9.0",
+        "Precio": "799",
+        "img": "https://m.media-amazon.com/images/I/81uuNY+2tZL._AC_UY218_.jpg"
+    },
+    {
+        "nombre": "Apple",
+        "Modelo": "Iphone 11",
+        "SistemaOperativo": "Apple DOS",
+        "Precio": "2099",
+        "img": "https://falabella.scene7.com/is/image/FalabellaPE/18673445_2?wid=240&hei=240&qlt=70&fmt=webp"
+    }
+]
+
